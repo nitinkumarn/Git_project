@@ -1,0 +1,7 @@
+first line
+<<<<<<< HEAD
+added by feature
+file 1 added bt master branch
+=======
+file 1 added bt feature branch
+>>>>>>> feature
