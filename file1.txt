@@ -2,3 +2,4 @@ first line
 file 1 added bt feature branch
 added by feature
 file 1 added bt master branch
+second line
